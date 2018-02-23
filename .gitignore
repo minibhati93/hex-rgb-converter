@@ -61,3 +61,7 @@ typings/
 .next
 
 .DS_STORE
+
+package-lock.json
+
+/build
